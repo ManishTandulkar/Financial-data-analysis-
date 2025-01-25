@@ -12,15 +12,13 @@ Sales-to-Market Cap Ratio: A clear visualization of efficiency across companies.
 Quarterly Sales Trends: Insight into quarterly performance metrics.   
 Interactive Filtering: Users can explore data by company names for a tailored view.
 
+KPIs :
+Total sales (₹2M+)  
+Total market capitalization (₹13M+)   
+Average sales and market cap per company   
+Sales-to-Market Cap efficiency ratio   
+Top and bottom 5 companies based on key metrics  
 
-KPIs
-Total sales (₹2M+)
-Total market capitalization (₹13M+)
-Average sales and market cap per company
-Sales-to-Market Cap efficiency ratio
-Top and bottom 5 companies based on key metrics
-
-
-Skills and Tools Utilized
-Skills: Data cleaning, financial analysis, and dashboard design.
+Skills and Tools Utilized : 
+Skills: Data cleaning, financial analysis, and dashboard design.  
 Tools: Power BI for data visualization and interactive dashboards.
