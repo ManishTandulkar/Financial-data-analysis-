@@ -6,14 +6,10 @@ From analyzing top-performing companies by sales and market capitalization to un
 this analysis serves as a comprehensive overview of key financial metrics.
 
 Key Features of the Dashboard :   
-Top 5 Companies by Sales and Market Cap : Identified the best-performing companies in each category.
-
-Bottom 5 Companies by Sales and Market Cap : Highlighted underperforming companies for contrast.
-
-Sales-to-Market Cap Ratio: A clear visualization of efficiency across companies.
-
-Quarterly Sales Trends: Insight into quarterly performance metrics.
-
+Top 5 Companies by Sales and Market Cap : Identified the best-performing companies in each category.  
+Bottom 5 Companies by Sales and Market Cap : Highlighted underperforming companies for contrast.   
+Sales-to-Market Cap Ratio: A clear visualization of efficiency across companies.   
+Quarterly Sales Trends: Insight into quarterly performance metrics.   
 Interactive Filtering: Users can explore data by company names for a tailored view.
 
 
