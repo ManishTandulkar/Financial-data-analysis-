@@ -19,6 +19,6 @@ Average sales and market cap per company
 Sales-to-Market Cap efficiency ratio   
 Top and bottom 5 companies based on key metrics  
 
-Skills and Tools Utilized : 
+Skills and Tools Utilized :   
 Skills: Data cleaning, financial analysis, and dashboard design.  
 Tools: Power BI for data visualization and interactive dashboards.
